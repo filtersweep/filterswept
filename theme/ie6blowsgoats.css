@@ -1,0 +1,25 @@
+html, body {
+	height: 100%;
+	overflow: auto; 
+}
+
+
+div.leftCol {
+	height: 100%;
+}
+
+div.rightCol {
+	position: absolute;
+}
+
+img.flash {
+	position: absolute;
+}
+
+div.signoff {
+	position: absolute;
+}
+
+div.comment p {
+	min-height: 20px;
+}
